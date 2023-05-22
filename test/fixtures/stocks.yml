@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  symbol: MyString
+  purchase_price: 1
+  quantity: 1
+  remaining: 1
+  portfolio: one
+
+two:
+  symbol: MyString
+  purchase_price: 1
+  quantity: 1
+  remaining: 1
+  portfolio: two
